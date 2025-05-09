@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { createClientComponentClient } from '@supabase/auth-helpers-nextjs';
 import Header from '@/components/Header';
@@ -47,7 +47,8 @@ const MODE_WEIGHT_FACTORS = {
   quiz: 5,     // Quiz mode
 };
 
-export default function LearnModePage() {
+// This component is created to safely use useSearchParams
+function LearnModePageContent() {
   const [isLoading, setIsLoading] = useState(true);
   const [cards, setCards] = useState<Card[]>([]);
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
@@ -567,6 +568,7 @@ export default function LearnModePage() {
     }
   };
 
+  // Return the JSX for the page content
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
       <Header />
@@ -629,5 +631,18 @@ export default function LearnModePage() {
         )}
       </main>
     </div>
+  );
+}
+
+// Main page component that wraps the content in a Suspense boundary
+export default function LearnModePage() {
+  return (
+    <Suspense fallback={
+      <div className="flex justify-center items-center h-screen">
+        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+      </div>
+    }>
+      <LearnModePageContent />
+    </Suspense>
   );
 } 
