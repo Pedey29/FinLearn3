@@ -1,6 +1,25 @@
 'use client';
 
-import { useState, useEffect, Suspense } from 'react';
+import { Suspense } from 'react';
+
+// Create a client component that doesn't directly use hooks that require Suspense
+function LearnModePage() {
+  return (
+    <Suspense fallback={
+      <div className="flex justify-center items-center h-screen">
+        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+      </div>
+    }>
+      <ClientLearnPage />
+    </Suspense>
+  );
+}
+
+// Export the page component as default
+export default LearnModePage;
+
+// Create a separate client component that uses useSearchParams
+import { useState, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { createClientComponentClient } from '@supabase/auth-helpers-nextjs';
 import Header from '@/components/Header';
@@ -47,16 +66,11 @@ const MODE_WEIGHT_FACTORS = {
   quiz: 5,     // Quiz mode
 };
 
-// SearchParams wrapper component - this safely uses useSearchParams
-function SearchParamsProvider({ children }: { children: (examParam: string) => React.ReactNode }) {
+// This component is wrapped by Suspense in the parent
+function ClientLearnPage() {
   const searchParams = useSearchParams();
   const examParam = searchParams.get('exam') || 'SIE';
   
-  return <>{children(examParam)}</>;
-}
-
-// Main content component that doesn't directly use useSearchParams
-function LearnModeContent({ examParam }: { examParam: string }) {
   const [isLoading, setIsLoading] = useState(true);
   const [cards, setCards] = useState<Card[]>([]);
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
@@ -83,6 +97,24 @@ function LearnModeContent({ examParam }: { examParam: string }) {
     };
     checkAuthAndLoad();
   }, [router, supabase, examParam]);
+
+  // Function to safely parse JSON bullet points
+  const safeParseBulletPoints = (bulletPoints: any) => {
+    if (Array.isArray(bulletPoints)) {
+      return bulletPoints;
+    }
+    
+    try {
+      if (typeof bulletPoints === 'string') {
+        const parsed = JSON.parse(bulletPoints || '[]');
+        return Array.isArray(parsed) ? parsed : [];
+      }
+      return [];
+    } catch (e) {
+      console.error('Error parsing bulletPoints:', e);
+      return [];
+    }
+  };
 
   const loadData = async (user: User) => {
     try {
@@ -124,24 +156,6 @@ function LearnModeContent({ examParam }: { examParam: string }) {
     } catch (error) {
       console.error('Error in initial load:', error);
       setIsLoading(false);
-    }
-  };
-
-  // Function to safely parse JSON bullet points
-  const safeParseBulletPoints = (bulletPoints: any) => {
-    if (Array.isArray(bulletPoints)) {
-      return bulletPoints;
-    }
-    
-    try {
-      if (typeof bulletPoints === 'string') {
-        const parsed = JSON.parse(bulletPoints || '[]');
-        return Array.isArray(parsed) ? parsed : [];
-      }
-      return [];
-    } catch (e) {
-      console.error('Error parsing bulletPoints:', e);
-      return [];
     }
   };
 
@@ -637,20 +651,5 @@ function LearnModeContent({ examParam }: { examParam: string }) {
         )}
       </main>
     </div>
-  );
-}
-
-// Main page component with proper Suspense boundary
-export default function LearnModePage() {
-  return (
-    <Suspense fallback={
-      <div className="flex justify-center items-center h-screen">
-        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
-      </div>
-    }>
-      <SearchParamsProvider>
-        {(examParam) => <LearnModeContent examParam={examParam} />}
-      </SearchParamsProvider>
-    </Suspense>
   );
 } 
