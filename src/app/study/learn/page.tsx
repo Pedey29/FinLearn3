@@ -47,8 +47,16 @@ const MODE_WEIGHT_FACTORS = {
   quiz: 5,     // Quiz mode
 };
 
-// This component is created to safely use useSearchParams
-function LearnModePageContent() {
+// SearchParams wrapper component - this safely uses useSearchParams
+function SearchParamsProvider({ children }: { children: (examParam: string) => React.ReactNode }) {
+  const searchParams = useSearchParams();
+  const examParam = searchParams.get('exam') || 'SIE';
+  
+  return <>{children(examParam)}</>;
+}
+
+// Main content component that doesn't directly use useSearchParams
+function LearnModeContent({ examParam }: { examParam: string }) {
   const [isLoading, setIsLoading] = useState(true);
   const [cards, setCards] = useState<Card[]>([]);
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
@@ -61,8 +69,6 @@ function LearnModePageContent() {
   const [progress, setProgress] = useState({ completed: 0, total: 0 });
   
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const examParam = searchParams.get('exam') || 'SIE';
   const supabase = createClientComponentClient<Database>();
 
   useEffect(() => {
@@ -634,7 +640,7 @@ function LearnModePageContent() {
   );
 }
 
-// Main page component that wraps the content in a Suspense boundary
+// Main page component with proper Suspense boundary
 export default function LearnModePage() {
   return (
     <Suspense fallback={
@@ -642,7 +648,9 @@ export default function LearnModePage() {
         <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
       </div>
     }>
-      <LearnModePageContent />
+      <SearchParamsProvider>
+        {(examParam) => <LearnModeContent examParam={examParam} />}
+      </SearchParamsProvider>
     </Suspense>
   );
 } 
