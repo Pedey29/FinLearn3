@@ -1,15 +1,16 @@
 import { Suspense } from 'react';
-import ClientLearnPage from './learn-page-client'; // We will create this component next
 
-// This is now a Server Component by default
+// This is a Server Component by default
 export default function LearnModePage() {
   return (
     <Suspense fallback={
       <div className="flex justify-center items-center h-screen">
         <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+        <p>Loading page...</p>
       </div>
     }>
-      <ClientLearnPage />
+      {/* <ClientLearnPage /> */}
+      <div>Page Content Would Go Here (Temporarily Disabled for Debugging)</div>
     </Suspense>
   );
 }
