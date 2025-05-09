@@ -1,0 +1,938 @@
+General Securities Representative
+Qualification Examination
+(Series 7)
+CONTENT OUTLINE
+
+© 2021 FINRA
+
+Series 7
+PURPOSE OF THE EXAM
+The Series 7 exam is designed to assess the competency of entry-level General Securities Representatives. The
+Series 7 exam seeks to measure the degree to which each candidate possesses the knowledge, skills and abilities
+needed to perform the critical functions of a General Securities Registered Representative. In order to obtain
+registration as a General Securities Representative, candidates must pass both the Series 7 exam and a general
+knowledge co-requisite, the Securities Industry Essentials (SIE) exam. For more information about the activities
+requiring registration as a General Securities Representative, see FINRA Rule 1220(b)(2).
+
+STRUCTURE OF THE EXAM
+The exam consists of 125 multiple-choice items, and each item consists of four answer choices. The allocation of
+exam items for each major function is as follows:
+
+Function
+1
+2
+3
+4
+
+Description
+Seeks Business for the Broker-Dealer from
+Customers and Potential Customers
+Opens Accounts After Obtaining and Evaluating
+Customers’ Financial Profile and Investment
+Objectives
+Provides Customers with Information About
+Investments, Makes Recommendations, Transfers
+Assets and Maintains Appropriate Records
+Obtains and Verifies Customers’ Purchase and Sales
+Instructions and Agreements; Processes, Completes
+and Confirms Transactions
+TOTAL
+
+Percentage of
+Exam Items
+
+Number of Items
+
+7%
+
+9
+
+9%
+
+11
+
+73%
+
+91
+
+11%
+
+14
+
+100%
+
+125
+
+ADMINISTRATION OF THE EXAM
+The exam is administered via computer. A tutorial on how to take the exam is provided prior to taking the exam. Each
+candidate’s exam includes 10 additional, unidentified pretest items that do not contribute toward the candidate's
+score. The pretest items are randomly distributed throughout the exam. Therefore, each candidate’s exam consists of
+a total of 135 items (125 scored and 10 unscored). There is no penalty for guessing. Therefore, candidates should
+attempt to answer all items. Candidates will be allowed 3 hours and 45 minutes to complete the Series 7 exam.
+All candidate test scores are placed on a common scale using a statistical adjustment process known as equating.
+Equating scores to a common scale accounts for the slight variations in difficulty that may exist among the different
+sets of exam items that candidates receive. This allows for a fair comparison of scores and ensures that every
+candidate is held to the same passing standard regardless of which set of exam items they received.
+Candidates are not permitted to bring reference materials to their testing session. Severe penalties are imposed on
+candidates who cheat or attempt to cheat on FINRA-administered exams.
+Please visit www.finra.org for additional details.
+
+2
+
+Series 7
+Function 1: Seeks Business for the Broker-Dealer from Customers and Potential
+Customers
+1.1
+
+Contacts current and potential customers in person and by telephone, mail and electronic
+means; develops promotional and advertising materials and seeks appropriate approvals to
+distribute marketing materials
+
+Knowledge of:
+• Standards and required approvals of public communications
+• Types of communications (e.g., retail, institutional, correspondence)
+• Seminars, lectures and other group forum requirements
+• Product specific advertisements and disclosures
+ Investment company products and variable contracts
+ Options-related communications; options disclosure document (ODD)
+ Municipal securities
+ Research reports (e.g., quiet periods, distribution, third-party research)
+ Government securities, collateralized mortgage obligations (CMOs), certificates of deposit (CDs)
+FINRA Rules
+2210 – Communications with the Public
+2211 – Communications with the Public about Variable Life Insurance and Variable Annuities
+2212 – Use of Investment Companies Rankings in Retail Communications
+2213 – Requirements for the Use of Bond Mutual Fund Volatility Ratings
+2216 – Communications with the Public about Collateralized Mortgage Obligations (CMOs)
+2220 – Options Communications
+2330 – Members’ Responsibilities Regarding Deferred Variable Annuities
+2360 – Options
+SEC Rules and Regulations
+Securities Act of 1933
+Section 5 – Prohibitions Relating to Interstate Commerce and the Mails
+156 – Investment Company Sales Literature
+482 – Advertising by an Investment Company as Satisfying Requirements of Section 10
+498 – Summary Prospectuses for Open-End Management Investment Companies
+Securities Exchange Act of 1934
+15c2-12 – Municipal Securities Disclosure
+15c3-3 – Customer Protection — Reserves and Custody of Securities
+Cboe Rules
+9.8 – Addressing of Communications to Customers
+9.9 – Delivery of Current Options Disclosure Documents
+9.15 – Options Communications
+MSRB Rule
+G-21 – Advertising
+
+1.2
+
+Describes investment products and services to current and potential customers with the
+intent of soliciting business
+
+3
+
+Series 7
+Knowledge of:
+• Process for bringing new issues to market (e.g., due diligence, registration statement, preliminary
+prospectus, final prospectus, underwriting agreement, selling group agreement, blue-sky laws and
+procedures)
+• Regulatory requirements for initial public offerings (IPOs) (e.g., restrictions on prospecting or soliciting,
+allowable communications with the public)
+• Primary financing for municipal securities (e.g., competitive sale, negotiated sale, private offering, advance
+refunding)
+• Syndicate formation and operational procedures (e.g., purpose of syndicate bid, roles and responsibilities of
+underwriters, selling group concession and reallowance)
+• Pricing practices and components of underwriters’ spread and determination of underwriters’ compensation
+and selling practices
+• Prospectus requirements (e.g., timeliness of information, preliminary prospectus (red herring), final
+prospectus)
+• Information required in a registration statement and offering material on new issue (e.g., in pre-filing period,
+in cooling-off period, in post-registration period)
+• Official statements, preliminary official statements, notice of sale for municipal securities
+• Qualified institutional buyer (QIB) and accredited investor
+• Qualification requirements for Regulation A offerings (e.g., filing of abbreviated registration statement and
+offering circular
+• Regulation D offerings (e.g., exemption from SEC registration, access to capital markets, accredited
+investors)
+• Securities and transactions exempted from registration, including Section 3(a)(11) of the Securities Act of
+1933 and Rule 147 thereunder (i.e., intrastate offering)
+• Regulatory requirements for private placements or resales
+• Nonregistered foreign securities sold to institutions qualified in the U.S.
+• Foreign securities prohibited from being sold to U.S. investors
+FINRA Rules
+3160 – Networking Arrangements Between Members and Financial Institutions
+3170 – Tape Recording of Registered Persons by Certain Firms
+5110 – Corporate Financing Rule — Underwriting Terms and Arrangements
+5121 – Public Offerings of Securities with Conflicts of Interest
+5130 – Restrictions on the Purchase and Sale of Initial Equity Public Offerings
+5131 – New Issue Allocations and Distributions
+5141 – Sale of Securities in a Fixed Price Offering
+5160 – Disclosure of Price and Concessions in Selling Agreements
+5190 – Notification Requirements for Offering Participants
+SEC Rules and Regulations
+Securities Act of 1933
+Section 3 – Exempted Securities
+Section 4 – Exempted Transactions
+134 – Communications Not Deemed a Prospectus
+134a – Options Material Not Deemed a Prospectus
+144 – Persons Deemed Not To Be Engaged in a Distribution and Therefore Not Underwriters
+144A – Private Resales of Securities to Institutions
+145 – Reclassification of Securities, Mergers, Consolidations and Acquisitions of Assets
+147 – Intrastate Offers and Sales
+164 – Post-filing Free Writing Prospectuses in Connection with Certain Registered Offerings
+4
+
+Series 7
+Securities Exchange Act of 1934
+10b-1 – Prohibition of Use of Manipulative or Deceptive Devices or Contrivances with Respect to
+Certain Securities Exempted from Registration
+10b-3 – Employment of Manipulative and Deceptive Devices by Brokers or Dealers
+10b-18 – Purchases of Certain Equity Securities by the Issuer and Others
+15c2-8 – Delivery of Prospectus
+17a-3 – Records To Be Made by Certain Exchange Members, Brokers and Dealers
+Regulation A – Conditional Small Issues Exemption
+Regulation C – Registration
+415 – Delayed or Continuous Offering and Sale of Securities
+427 – Contents of Prospectus Used After Nine Months
+430 – Prospectus for Use Prior to Effective Date
+430A – Prospectus in a Registration Statement at the Time of Effectiveness
+430B – Prospectus in a Registration Statement After Effective Date
+433 – Conditions to Permissible Post-filing Free Writing Prospectuses
+Regulation D – Rules Governing the Limited Offer and Sale of Securities Without Registration Under the
+Securities Act of 1933
+500 – Use of Regulation D
+501 – Definitions and Terms Used in Regulation D
+502 – General Conditions to be Met
+503 – Filing of Notice of Sale
+504 – Exemption for Limited Offerings and Sales of Securities Not Exceeding $5,000,000
+506 – Exemption for Limited Offers and Sales Without Regard to Dollar Amount of Offering
+507 – Disqualifying Provision Relating to Exemptions under Rules 504 and 506
+508 – Insignificant Deviations from a Term, Condition or Requirement of Regulation D
+Regulation M
+Regulation S – Rules Governing Offers and Sales Made Outside the United States Without Registration
+Under the Securities Act of 1933
+Trust Indenture Act of 1939
+MSRB Rules
+G-11 – Primary Offering Practices
+G-28 – Transactions with Employees and Partners of Other Municipal Securities Professionals
+G-32 – Disclosures in Connection with Primary Offerings
+G-34 – CUSIP Numbers, New Issue, and Market Information Requirements
+G-38 – Solicitation of Municipal Securities Business
+
+5
+
+Series 7
+Function 2: Opens Accounts After Obtaining and Evaluating Customers’ Financial
+Profile and Investment Objectives
+2.1
+
+Informs customers of the types of accounts and provides disclosures regarding various
+account types and restrictions
+
+Knowledge of:
+• Types of accounts (e.g., pattern day trading, prime brokerage, delivery verses payment/receive versus
+payment (DVP/RVP), advisory or fee-based)
+• Account registration types (e.g., tenants in common (TIC), community property, sole proprietorship,
+partnership, unincorporated associations)
+• Requirements for opening customer accounts
+• Retirement plans and other tax advantaged accounts
+ Transfers, rollovers, eligibility, distribution strategies and taxation (e.g., types of allowable contributions,
+distribution options, taxation of distribution at retirement, age restrictions for distributions, permissible
+investments)
+ Employer-sponsored plans and ERISA (e.g., 457, defined benefit, profit-sharing, stock options and
+stock purchase, non-qualified deferred compensation programs)
+• Wealth events (e.g., inheritance)
+• Account registration changes and internal transfers
+FINRA Rules
+2270 – Day-trading Risk Disclosure Statement
+2130 – Approval Procedures for Day-trading Accounts
+4512 – Customer Account Information
+4514 – Authorization Records for Negotiable Instruments Drawn from a Customer’s Account
+4515 – Approval and Documentation of Changes in Account Name or Designation
+Cboe Rule
+9.1 – Opening of Accounts
+Internal Revenue Code
+219 – Retirement Savings
+415 – Limitations on Benefits and Contributions Under Qualified Plans
+529 – Qualified Tuition Programs
+530 – Coverdell Education Savings Accounts
+Employee Retirement Income Security Act of 1974 (ERISA)
+
+2.2
+
+Obtains and updates customer information and documentation, including required legal
+documents and identifies and escalates suspicious activity
+
+Knowledge of:
+• Customer screening (e.g., customer identification program (CIP), know-your-customer (KYC), domestic or
+foreign residency and/or citizenship, corporate insiders, employees of broker-dealers or self-regulatory
+organizations (SROs))
+• Information security and privacy regulations (e.g., initial privacy disclosures to customers, opt-out notices,
+disclosure limitations, exceptions)
+
+6
+
+Series 7
+•
+
+Account authorizations (e.g., power of attorney (POA), trust documents, corporate resolutions, trading
+authority, discretionary account documents)
+
+FINRA Rule
+408T – Discretionary Power in Customers’ Accounts
+2090 – Know Your Customer
+3260 – Discretionary Accounts
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+Section 3(a)(35) – Definitions and Application of Title – “Investment Discretion”
+Regulation S-P – Privacy of Consumer Financial Information and Safeguarding Personal Information
+Cboe Rule
+9.4 – Discretionary Accounts
+
+2.3
+
+Makes reasonable efforts to obtain customer investment profile information including, but
+not limited to, the customer's other security holdings, financial situation and needs, tax
+status and investment objectives
+
+Knowledge of:
+• Essential facts regarding customers and customer relationships
+• Financial factors relevant to assessing a customer’s investment profile
+ Security holdings, other assets and liabilities, annual income, net worth, tax considerations
+ Other considerations (e.g., age, marital status, dependents, employment, investment experience, home
+ownership and financing, employee stock options, insurance, liquidity needs)
+• Investment objectives (e.g., preservation of capital, income, growth, speculation)
+• Reasonable-basis, customer-specific and quantitative care obligations
+• Investment strategies and recommendations to hold
+• Verification of investor accreditation and sophistication
+FINRA Rules
+2111 – Suitability
+2214 – Requirements for the Use of Investment Analysis Tools
+SEC Rules and Regulations
+Securities Act of 1934
+15l-1 – Regulation Best Interest
+MSRB Rule
+G-19 – Suitability of Recommendations and Transactions
+
+2.4
+
+Obtains supervisory approvals required to open accounts
+
+Knowledge of:
+• Required review, approvals and documentation for account opening and maintenance
+• Physical receipt, delivery and safeguarding of cash or cash equivalents, checks and securities
+• Circumstances for refusing or restricting activity in an account or closing accounts
+FINRA Rules
+7
+
+Series 7
+3110 – Supervision
+3120 – Supervisory Control System
+Cboe Rule
+9.2 – Supervision of Accounts
+MSRB Rule
+G-27 – Supervision
+
+8
+
+Series 7
+Function 3: Provides Customers with Information About Investments, Makes
+Recommendations, Transfers Assets and Maintains Appropriate Records
+3.1
+
+Provides customers with information about investment strategies, risks and rewards, and
+communicates relevant market, investment and research data to customers
+
+Knowledge of:
+• Customer-specific factors that generally affect the selection of securities (i.e., customer’s investment profile,
+including the customer’s risk tolerance, investment time horizon and investment objectives, liquidity needs)
+• Portfolio or account analysis and its application to security selection (e.g., diversification, asset allocation
+principles, concentration, volatility, potential tax ramifications)
+• Portfolio theory (e.g., alpha and beta considerations, Capital Asset Pricing Model (CAPM))
+• Delivery of annual reports and notices of corporate actions (e.g., dividends, splits, odd lot tenders)
+• Fundamental analysis of financial statements and types of financial statements included in an annual report,
+importance of footnotes, material risk disclosures and key terms (e.g., assets, liabilities, capital, cash flow,
+income, earnings per share (EPS), book value, shareholders' equity, depreciation, depletion, goodwill)
+• Balance sheet and methods of inventory valuation: last-in, first out (LIFO), first-in, first-out (FIFO) and
+methods of depreciation
+• Income statement and calculations derived from an income statement: earnings before interest and taxes
+(EBIT); earnings before taxes (EBT); net profit; and earnings before interest, taxes, depreciation and
+amortization (EBITDA)
+• Principal tools to measure financial health
+ Liquidity: working capital, current ratio, quick assets, acid test ratio
+ Risk of bankruptcy: bond ratio, debt-to-equity ratio
+ Efficient use of assets: inventory turnover ratio, cash flow
+ Profitability: margin-of-profit ratio, net profit ratio, asset coverage and safety of income (i.e., net asset
+value (NAV) per bond, bond interest coverage, book value per share)
+ EPS: fully diluted EPS, price-earnings (P/E) ratio, dividend payout ratio, current yield
+ Competitiveness (comparative performance): return on common equity
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+14e-3 – Transactions in Securities on the Basis of Material, Nonpublic Information in the Context of
+Tender Offers
+14e-4 – Prohibited Transactions in Connection with Partial Tender Offers
+Cboe Rule
+9.3 – Suitability of Recommendations
+
+3.2
+
+Reviews and analyzes customers' investment profiles and product options to determine that
+investment recommendations meet applicable standards
+
+Knowledge of:
+Equity securities
+• Types of stock (e.g., authorized, issued, outstanding, Treasury stock, stated value)
+• Characteristics of common stock
+ Rights of common stockholders (e.g., pre-emptive right, pro rata share of dividends, access to
+corporate books, voting power (statutory, cumulative, nonvoting), residual claims on corporate assets)
+ Spinoffs
+9
+
+Series 7
+
+•
+
+•
+•
+•
+•
+
+ Stock acquired through a consolidation or transfer
+ Penny stocks and rules associated with penny stock transactions
+Characteristics of preferred stock
+ Types of preferred stock (e.g., cumulative, non-cumulative, participating, nonparticipating, convertible,
+callable, adjustable-rate and variable-rate)
+ Rights of preferred stockholders (e.g., preference upon corporate dissolution, dividend payment,
+conversions, sinking fund provisions)
+Rights and warrants: origination, exercise terms, relationship of subscription price to market price of
+underlying stock, anti-dilution agreement
+Electronic exchanges or auction markets (e.g., electronic communications networks (ECNs), over-thecounter (OTC), dark pools of liquidity)
+Types and characteristics of non-U.S. market securities (e.g., American Depositary Receipts (ADRs),
+corporate equity)
+Tax treatment of equity securities transactions
+ Capital gains and losses, dividend distributions (qualified and non-qualified), wash sales, holding
+periods
+ Determination of net long-term and short-term gains or losses
+ When-issued securities, securities acquired through conversion
+ Calculation of cost basis per share on: purchases, exchange of convertibles for common shares, stock
+dividends and stock rights, inherited or gifted securities
+ Cost valuation: FIFO, LIFO, identified shares
+
+Packaged products
+• Investment companies, exchange-traded funds (ETFs), unit investment trusts (UITs)
+ Types of mutual funds: equity, fixed income, money market, interval
+ Structure of investment companies (e.g., open-end and closed-end funds)
+ Fund objectives (e.g., value, growth, income, balanced, international, sector, life cycle)
+ Characteristics of:
+− Open-end funds: e.g., NAV, forward pricing, offering price, exchange privileges within families of
+funds, fees and expenses: no load, load (front-end, back-end), distribution fees, management fees,
+nature of 12b-1 fees
+− Closed-end funds: distributed in primary market at IPO price, traded in secondary market
+ Sales practices (e.g., dollar-cost averaging (DCA), computing sales charge, breakpoints)
+ Redemption (e.g., redemption price, payout or withdrawal plans, conversion privilege, restrictions,
+contingent deferred sales charge, tenders)
+ Tax treatment of mutual funds
+ Reinvestment of dividends and capital gain distributions
+ Charges and expenses
+• Variable life insurance/annuity contracts
+ Characteristics and insurance features (e.g., minimum guarantees, death benefits, living benefits,
+riders)
+ Separate accounts (e.g., purpose, management of portfolio, investment policies, performance of
+account)
+ Valuation of a variable annuity contract (e.g., accumulation units, surrender value, annuitization units)
+ Purchasing or exchanging variable annuities (e.g., immediate annuity, charges, fees, penalties, right of
+accumulation (ROA), waiver of premium)
+ Annuitization: types of election, variable payout, assumed interest rate, relationship between assumed
+interest rate and actual rate of return
+
+10
+
+Series 7
+
+•
+
+•
+
+Tax treatment of variable annuity contracts during accumulation period and annuity period and taxation
+at surrender of contract
+Real estate investment trusts (REITs)
+ Structure (e.g., finite number of shares, distributed in primary market at IPO price, traded in secondary
+market, premiums and discounts to NAV)
+ Types and characteristics (e.g., equity REIT, mortgage REIT, hybrid REIT)
+ Tax treatment (e.g., dividends, capital gains, distributions)
+Direct participation programs (DPPs)
+ General characteristics
+− Structures (e.g., limited partnerships (e.g., roles and duties of general partners vs. limited
+partners), limited liability companies, corporations that have tax pass-through exemption from the
+IRS)
+− Tax treatment (e.g., flow-through of income, expenses and tax liability, real estate depreciation, oil
+and gas tax advantages)
+ Types of DPPs (e.g., real estate, oil and gas, small-cap debt and equity, business development
+companies (BDCs), equipment leasing) and their investment advantages, risks and tax implications
+ Types of DPP offerings (i.e., private placements and public offerings)
+ Evaluation of DPPs (e.g., economic soundness of the program, expertise of the general partner, basic
+objectives of the program; start-up costs, leverage and other revenue considerations)
+
+Options
+• Listed options and their characteristics (e.g., contract specifications and adjustments, dividends,
+exercise/assignment, settlement date, opening and closing transactions, values (premium, intrinsic and
+time), volume, open interest, position limits, exercise limits)
+ The Options Clearing Corporation (OCC)
+ American-style and European-style
+ Long-term Equity AnticiPation Securities (LEAPS)
+• Basic strategies (e.g., covered writing and hedging for equity, index, foreign currency and yield-based
+options)
+ Protective put for equity and index options
+ Covered call and put writing for equity options
+• Advanced strategies (e.g., spreads, straddles, combinations, uncovered writing)
+ Long (debit) and short (credit) spreads
+ Straddle/combination for equity and index options
+ Uncovered (naked) call or put writing for equity, index and yield-based options
+• Profit and loss calculations, break-even points, economics of positions
+• Tax treatment of option transactions (equity, index, foreign currency, yield-based)
+Debt Securities
+• Types of debt securities and money market instruments (e.g., corporate commercial paper, brokered CDs,
+Eurodollar bond, variable-rate preferreds)
+• Characteristics: structure, risks and rewards, call provisions
+• Structured products (e.g., equity-linked securities, exchange-traded notes (ETNs))
+• Types and characteristics of non-U.S. market securities (e.g., sovereign and corporate debt)
+• Types of yields (e.g., coupon (nominal), current, yield to maturity (YTM), yield to call (YTC), yield to worst
+and discount yield, calculations and relationship to price)
+• Bond ratings
+• Tax implications of taxable debt securities, including original issue discount (OID) rules, interest, principal,
+premiums, discounts, and capital gains and losses
+11
+
+Series 7
+Corporate bonds
+• Types of corporate bonds (e.g., mortgage bonds, equipment trust certificates, debentures, step coupon
+bonds, zero-coupon bonds, convertible bonds, high-yield bonds, income bonds) and their characteristics
+• Convertible bonds: general characteristics, (e.g., conversion privilege, fixed versus variable, conversion ratio
+or price, calculation of parity price of underlying security, arbitrage, factors influencing conversion)
+Municipal securities
+• General characteristics of municipal fund securities, method of quotations (e.g., yield/basis price, dollar
+price), interest rate, payment periods, denominations, diversity of maturities (e.g., serial, term) and legal
+opinion (purpose and contents)
+• Analysis and diversification of municipal investments: geographical, type and rating
+• Analysis of general obligation (GO) bonds, including: characteristics of the issuer, nature of the issuer’s
+debt, factors affecting the issuer’s ability to pay, municipal debt ratios
+• Analysis of revenue bonds, including feasibility studies, sources of revenue, security (protective covenants
+of bond indenture), financial reports and outside audits, restrictions on the issuance of additional bonds, flow
+of funds, earnings coverage, sources of credit information, rating services, credit enhancements
+• Purpose and characteristics of specific types of municipal securities:
+ Types of municipal bonds (e.g., GO bonds, limited tax GO bonds and notes, revenue bonds, short-term
+municipal obligations (e.g., tax anticipation notes (TANs), bond anticipation notes (BANs), revenue
+anticipation notes (RANs), tax-exempt commercial paper, grant anticipation notes (GANs), tax and
+revenue anticipation notes (TRANs)))
+ Special tax, special assessment, moral obligation, advance or pre-refunded, double-barreled, taxable
+(e.g., Build America bonds), OIDs, zero-coupon (capital appreciation) bonds, certificates of participation
+(COPs), alternative minimum tax (AMT), lease revenue, variable rate securities, auction rate securities
+ Municipal fund securities including 529 college savings plans, local government investment pools
+(LGIPs), ABLE accounts (e.g., change in beneficiary, rollovers, ownership, tax consequences of
+unqualified withdrawals)
+ Call features (e.g., par or premium, optional, mandatory, partial call, sinking fund, extraordinary calls,
+make whole calls), advantages/disadvantages to issuers and investors
+ Put or tender options
+ Refunding methods: direct exchange versus sale of new issue, advance refunding, refunding at call
+dates/current refunding, escrowed to maturity, crossover refunding
+• Factors affecting the marketability of municipal bonds: rating, maturity, call features, interest (coupon) rate,
+block size, liquidity (ability to sell the bond in the secondary market), dollar/yield price, issuer name (local or
+national reputation), credit enhancement, credit and liquidity support, denominations
+• Pricing of municipal securities and other mathematical calculations: dollar price, accrued interest (regular
+coupon, odd first coupon), computations of accrued interest (30/360), amortization of premium, accretion of
+discount, relationship of bond prices to changes in maturity, coupon, various yield calculations (taxable
+equivalent yield, net yield after capital gains tax, current yield, YTC on premium bonds) value of basis point,
+in default,
+• Tax treatment of municipal securities: securities bought at a discount or premium in the secondary market,
+OID, federal income tax status, state and local tax status, computation of taxable equivalent yield, accrued
+interest, AMT, bonds, taxable bonds, bank qualified bonds
+Registered hedge funds and fund of funds
+• Structure (e.g., private placements, registered, exemption from registration under the Investment Company
+Act of 1940, blind pool/ blank check)
+• Characteristics (e.g., limited or no liquidity, limited available information, lock-up provisions, charges and
+expenses, tangible assets, wide array of investment styles, models and vehicles)
+12
+
+Series 7
+•
+
+Tax treatment of distributions
+
+Asset-backed securities
+• Collateralized mortgage obligations (CMOs)
+• Collateralized debt obligations (CDOs)
+• Characteristics (e.g., indenture, maturities, form of ownership, interest payment periods, call and put
+features, calculation of accrued interest, and specific characteristics (e.g., maturity, type of collateral, priority
+of claim, call provisions))
+U.S. Treasury securities
+• Treasury bills, notes, bonds
+• Treasury receipts (Separate Trading of Registered Interest and Principal Securities (STRIPS)/zero-coupon)
+• Treasury Inflation Protected Securities (TIPS)
+• Characteristics (e.g., types, maturities, denominations, payment of interest)
+U.S. government agency securities
+• Government National Mortgage Association (Ginnie Mae)
+• Federal National Mortgage Association (Fannie Mae)
+• Federal Home Loan Mortgage Corporation (Freddie Mac)
+• SLM Corporation (Sallie Mae)
+• Characteristics: types, maturities, denominations, primary dealers, distribution, issue form, quotations, passthrough, calculating a spread, pricing, payment of interest and principal
+FINRA Rules
+2114 – Recommendations to Customers in OTC Equity Securities
+2121 – Fair Prices and Commissions
+2122 – Charges for Services Performed
+2124 – Net Transactions with Customers
+2310 – Direct Participation Programs
+2320 – Variable Contracts of an Insurance Company
+2341 – Investment Company Securities
+2350 Series – Trading in Index Warrants, Currency Index Warrants, and Currency Warrants
+4210(f)(2) – Definitions Related to Options, Currency Warrants, Currency Index Warrants and Stock Index
+Warrant Transactions
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+Section 9(a) – Prohibition Against Manipulation of Security Prices (Transactions Relating to Purchase
+or Sale of Security)
+Exemption of Certain Issuers from Section 15(D) of the Act
+3a51-1 – Definition of "Penny Stock"
+15g-1 – Exemptions for Certain Transactions
+15g-2 – Penny Stock Disclosure Document Relating to the Penny Stock Market
+15g-5 – Disclosure of Compensation of Associated Persons in Connection with Penny Stock
+Transactions
+15g-9 – Sales Practice Requirements for Certain Low-priced Securities
+Investment Company Act of 1940
+Section 2(a) – General Definitions
+Section 10 – Affiliations or Interest of Directors, Officers and Employees
+
+13
+
+Series 7
+Section 12(a) – Functions and Activities of Investment Companies (Purchase of Securities on Margin;
+Joint Trading Accounts; Short Sales of Securities; Exceptions)
+Section 13(a) – Changes in Investment Policy (Prohibited Actions for Registered Investment
+Companies)
+Section 15(a) – Investment Advisory and Underwriting Contracts (Written Contract to Serve or Act as
+Investment Adviser; Contents)
+Section 16(a) – Changes in Board of Directors; Provisions Relative to Strict Trusts (Election of
+Directors)
+Section 17(a) – Transactions of Certain Affiliated Persons and Underwriters (Prohibited Transactions)
+Section 18 – Capital Structure
+Section 19 – Dividends
+Section 22 – Distribution, Redemption, and Repurchase of Redeemable Securities
+Section 23 – Distribution and Repurchase of Securities: Closed-end Companies
+Section 30 – Periodic and Other Reports; Reports of Affiliated Persons
+Section 35 – Unlawful Representations and Names
+Section 36 – Breach of Fiduciary Duty
+Section 37 – Larceny and Embezzlement
+12b-1 – Distribution of Shares by Registered Open-end Management Investment Company
+Cboe Rules
+1.1 – Definitions
+4.5 (f) – Long-term Equity Option Series (LEAPS®)
+4.6 – Adjustments
+6.20 (e) – Exercise of American-style Index Options
+6.21 – Allocation of Exercise Notices
+8.1 – Just and Equitable Principles of Trade
+8.3 – Position Limits
+8.31 – Position Limits for Broad-based Index Options
+8.32 – Position Limits for Industry Index Options
+8.41– Position Limits — Interest Rate Options
+8.42 (b) – Exercise Limits — Index Options
+8.42 (f) – Exercise Limits — Interest Rate Options
+11.1 – Exercise of Option Contracts
+MSRB Rules
+D-12 – Definition of Municipal Fund Securities
+G-13 – Quotations Related to Municipal Securities
+G-17 – Conduct of Municipal Securities Activities
+G-30 – Prices and Commissions
+G-45 – Reporting of Information on Municipal Fund Securities
+Real Estate Investment Trusts (REITs)
+REIT Modernization Act of 1999
+Internal Revenue Code
+301 – Distributions of Property
+316 – Dividend Defined
+856 – Definition of Real Estate Investment Trust
+858 – Dividends Paid by Real Estate Investment Trust After Close of Tax Year
+1035 – Certain exchanges of Insurance Policies
+14
+
+Series 7
+1091 – Loss from Wash Sales of Stock or Securities
+1233 – Gains and Losses from Short Sales
+1256 – Contracts Marked to Market
+
+3.3
+
+Provides required disclosures regarding investment products and their characteristics,
+risks, services and expenses
+
+Knowledge of:
+• Required disclosures on specific transactions (e.g., material aspects of investments, statement of additional
+information, material events, control relationships)
+• Types of investment risk (e.g., call, systematic and nonsystematic, reinvestment, timing)
+• Types of investment returns (e.g., tax-exempt interest, return of capital)
+• Costs and fees associated with investments (e.g., markups, commissions, net transactions, share classes,
+non-discretionary fee-based accounts, surrender charges, 12b-1 fees, mortality and expense charges in
+variable products, soft dollar arrangements)
+• Tax considerations (e.g., unification of gift and estate taxes, lifetime exclusion, annual gift limit, taxation of
+securities received as a gift, inheritance of securities)
+• Market analysis considerations (e.g., market sentiment, market indexes, options volatility, put/call ratio,
+market momentum, available funds, trading volume, short interest, index futures)
+• Market analysis considerations for municipal securities, including Bond Buyer indexes (e.g., 11 GO Bonds
+Index, Municipal Bond Index (40 Bond), 20 GO Bonds Index)
+• Technical analysis of basic chart patterns and key terms (e.g., trend lines, saucer/inverted saucer, headand-shoulders/inverted head-and-shoulders, breakouts, resistance/support levels, moving averages,
+consolidation, stabilization, overbought and oversold)
+• Disclosure of material events effecting retail sales of municipal bonds
+FINRA Rule
+2165 – Financial Exploitation of Specified Adults
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+Section 28(e) – Effect on Existing Law (Exchange, Broker, and Dealer Commissions; Brokerage and
+Research Services)
+Internal Revenue Code
+2503 – Taxable Gifts
+
+3.4
+
+Communicates with customers about account information, processes requests and retains
+documentation
+
+Knowledge of:
+• Customer confirmations and statements, including: components, timing, mailings to third parties, and
+exceptions
+• Account value, profits and losses, realized and unrealized
+• Withdrawals and tenders
+• Customer account records (e.g., updating for change of address, sending required notifications, investment
+objectives)
+• Transferring accounts between broker-dealers (e.g., Automated Customer Account Transfer Service
+(ACATS), transfer agent and procedures)
+• Books and records retention requirements
+15
+
+Series 7
+•
+
+Account closure procedures
+
+FINRA Rules
+409T – Statements of Accounts to Customers
+2231 – Customer Account Statements
+2232 – Customer Confirmations
+2273 – Educational Communication Related to Recruitment Practices and Account Transfers
+4510 – Books and Records Requirements
+11870 – Customer Account Transfer Contracts
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+10b-10 – Confirmation of Transactions
+15g-6 – Account Statements for Penny Stock Customers
+17a-4 – Records To Be Preserved by Certain Exchange Members, Brokers and Dealers
+Regulation FD – Disclosure Requirements
+Cboe Rules
+6.1 – Reporting duties
+7.1 – Maintenance, Retention and Furnishing of Books, Records and Other Information
+7.2 – Reports of Uncovered Short Positions
+7.3 – Financial Reports
+7.4 – Audits
+7.5 – Automated Submission of Trading Data
+7.7 – Risk Analysis of Market-maker Accounts
+7.8 – Risk Analysis of Portfolio Margin Accounts
+7.9 – Regulatory Cooperation
+9.5 – Confirmation to Customers
+9.6 – Statements of Accounts to Customers
+9.14 – Transfer of Accounts
+MSRB Rules
+G-8 – Books and Records To Be Made by Brokers, Dealers, and Municipal Securities Dealers and Municipal
+Advisors
+G-9 – Preservation of Records
+G-15 – Confirmation, Clearance, Settlement and Other Uniform Practice Requirements with Respect to
+Transactions with Customers
+G-26 – Customer Account Transfers
+
+16
+
+Series 7
+Function 4: Obtains and Verifies Customers’ Purchase and Sales Instructions and
+Agreements; Processes, Completes and Confirms Transactions
+4.1
+
+Provides current quotes
+
+Knowledge of:
+• Orders, offerings and transactions in customer accounts (e.g., at advertised yield)
+• Trade execution activities
+• Types of securities quotes (e.g., firm, subject)
+• Types of orders (e.g., all-or-none (AON), fill-or-kill (FOK), immediate-or-cancel (IOC), not-held, market-onclose (MOC), spread, straddle)
+• Short sale requirements and strategies (e.g., order marking, locate, borrow and delivery, speculation,
+hedging, arbitrage)
+• Securities lending (e.g., hard to borrow, fail to deliver)
+• Best execution obligations
+FINRA Rules
+4320 – Short Sale Delivery Requirements
+4551 – Requirements for Alternative Trading Systems to Record and Transmit Order and Execution
+Information for Security Futures
+5210 – Publication of Transactions and Quotations
+5220 – Offers and Stated Prices
+5260 – Prohibition on Transactions, Publication of Quotations, or Publication of Indications of Interest During
+Trading Halts
+5290 – Order Entry and Execution Practices
+5310 – Best Execution and Interpositioning
+6100 Series – Quoting and Trading in NMS stocks
+6110 – Trading Otherwise than on an Exchange
+6120 – Trading Halts
+6121 – Trading Halts Due to Extraordinary Market Volatility
+6130 – Transactions Related to Initial Public Offerings
+6400 Series – Quoting and Trading in OTC Equity Securities
+6600 Series – OTC Reporting Facility
+11860 – COD Orders
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+15c2-7 – Identification of Quotations
+15c2-11 – Initiation or Resumption of Quotations Without Specified Information
+15g-3 – Broker or Dealer Disclosure of Quotations and Other Information Relating to the Penny Stock
+Market
+15g-4 – Disclosure of Compensation to Brokers or Dealers
+Regulation ATS – Alternative Trading Systems
+Regulation SHO – Regulation of Short Sales
+Cboe Rules
+5.33 – Certain Types of Orders Defined
+5.7 – Required Order Information
+
+17
+
+Series 7
+NYSE Rules
+7.12 – Trading Halts Due to Extraordinary Market Volatility
+7.31 – Orders and Modifiers
+7.35 Series – Auctions
+7.37 – Order Execution and Routing
+54 – Dealings on the Floor-persons
+64 -- Bonds, Rights and 100-Share-Unit Stocks
+71 – Precedence of Highest Bid and Lowest Offer
+72(d) – Priority of Cross Transactions and Supplemental Material .10 – Definition of a Block
+74 – Publicity of Bids and Offers
+75 – Disputes as to Bids and Offers
+76 – “Crossing” Orders
+77 – Prohibited Dealings and Activities
+104 – Dealings and Responsibilities of DMMs
+123A – Miscellaneous Requirements
+123D(d) – Initial Listing Regulatory Halt
+127 – Block Crosses Outside of the Prevailing NYSE Quotation
+1000 – Automatic Executions
+1001 – Execution of Automatically Executing Orders
+1002 – Availability of Automatic Execution Feature
+1004 – Election of Buy Minus Zero Plus Orders
+
+4.2
+
+Processes and confirms customers’ transactions pursuant to regulatory requirements and
+informs customers of delivery obligations and settlement procedures
+
+Knowledge of:
+• Information required on an order ticket (e.g., symbol, account number, price)
+• Market making activities: role and functions of the designated market maker, listing requirements, limitations
+on trading during significant market declines, principal transactions, agency transactions, quotations (e.g.,
+firm, subject or otherwise qualified, bid wanted, offer wanted, size obligations), SEC order handling rules,
+transaction reporting
+• Use of automated execution systems
+• Regulatory reporting requirements (e.g., Trade Reporting and Compliance Engine (TRACE), Electronic
+Municipal Market Access (EMMA), trade reporting facility (TRF), Real-Time Transaction Reporting System
+(RTRS))
+• Delivery requirements
+• Good delivery (e.g., certificates in possession of the seller, certificates in the name of two persons,
+deceased owner, stock or bond powers, mutilated certificates, due bills, DVP/RVP, book entry securities,
+stock certificate, endorsements, denominations, bearer, registrar, registered, Direct Registration System
+(DRS))
+• Settlement of transactions (e.g., security-specific requirements, when-, as- and if-issued, ex-rights, exdividends, due bill checks, negotiated settlements, option exercise/assignment, don’t know (DK),
+extensions)
+
+18
+
+Series 7
+FINRA Rules
+5330 – Adjustment of Orders
+6000 Series – Quotation, Order, and Transaction Reporting Facilities
+6140 – Other Trading Practices
+6700 Series – Trade Reporting and Compliance Engine
+7000 Series – Clearing, Transactions and Order Data Requirements, and Facility Charges
+11000 Series – Uniform Practice Code
+SEC Rules and Regulations
+Securities Exchange Act of 1934
+15c6-1 – Settlement Cycle
+Cboe Rules
+6.20 – Exercise of Options Contracts
+6.21 – Allocation of Exercise Notices
+6.22 – Delivery and Payment
+MSRB Rules
+G-12 – Uniform Practice
+G-14 – Reports of Sales or Purchases
+Nasdaq Stock Market Rules
+4600 Series – Requirements for Nasdaq Market Makers and Other Nasdaq Market Center Participants
+4750 Series – Nasdaq Market Center-Execution Services
+NYSE Rules
+63 – “When Issued”— “When Distributed”
+130 Series – Comparison and Exchange of Contracts
+133 – Comparison—Non-cleared Transactions
+135 – Differences and Omissions—Cleared Transactions (“DK’s”)
+136 – Comparison—Transactions Excluded from a Clearance
+
+4.3
+
+Informs the appropriate supervisor and assists in the resolution of discrepancies, disputes,
+errors and complaints
+
+Knowledge of:
+• Erroneous reports, errors, cancels and rebills
+• Requirements for addressing customer complaints and consequences of improper handling of complaints
+• Methods of formal resolution (e.g., arbitration, mediation, litigation)
+• Form U4 reporting requirements
+FINRA Rules
+4513 – Records of Written Customer Complaints
+4530 – Reporting Requirements
+8000 Series – Investigations and Sanctions
+11892 – Clearly Erroneous Transactions in Exchange-listed Securities
+11893 – Clearly Erroneous Transactions in OTC Equity Securities
+12000 Series – Code of Arbitration Procedure for Customer Disputes
+13000 Series – Code of Arbitration Procedure for Industry Disputes
+14000 Series – Code of Mediation Procedure
+19
+
+Series 7
+Cboe Rules
+5.11 – Price Binding Despite Erroneous Report
+9.17 – Customer Complaints
+
+4.4
+
+Addresses margin issues
+
+Knowledge of:
+• Requirements and characteristics of margin accounts (e.g., minimums, approvals, ineligible accounts,
+eligible/ineligible securities), and required disclosures (e.g., interest rate disclosure and hypothecation)
+• Product or strategy specific requirements (e.g., Treasury securities, mutual funds)
+• Calculations in margin accounts (e.g., long and/or short positions)
+• Initial margin: long market value, short market value, debit balance, credit balance, initial Regulation T
+margin requirement on long or short positions, Regulation T requirement for established accounts, loan
+value, excess equity, buying power of deposited securities
+• Maintenance: additional purchases, sales (long or short), cash withdrawals, stock withdrawals, simultaneous
+purchases and sales, restrictions, liquidation to meet a margin/maintenance call, deposit of cash or
+securities required to meet a margin or maintenance call
+• Special memorandum account (SMA): balance, buying power, prohibited use of SMA, effect of excess
+equity, deposit of marginable securities, receipt of cash dividends and earned interest, liquidation of
+securities in the account, cash or securities withdrawals, new margin securities purchased or sold short
+• Other margin accounts (e.g., portfolio margin, day trading)
+FINRA Rules
+2264 – Margin Disclosure Statement
+4210 – Margin Requirements
+Cboe Rules
+10.1 – General Rules
+10.2 – Time Margin Must Be Obtained
+10.3 – Margin Requirements
+10.4 – Portfolio Margin
+10.5 – Determination of Value for Margin Purposes
+10.6 – "When Issued" and "When Distributed" Securities
+10.7 – Guaranteed Accounts
+10.8 – Meeting Margin Calls by Liquidation Prohibited
+10.9 – Margin Required Is Minimum
+10.10 – Compliance with Margin Requirements of New York Stock Exchange
+10.11 – Daily Margin Record
+Federal Reserve
+Regulation T – Credit by Brokers and Dealers
+
+20
+
+
